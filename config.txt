@@ -1,0 +1,4 @@
+STARTING MYSQL
+systemctl start mysql
+STOPING MYSQL
+systemctl stop mysql
